@@ -1,14 +1,15 @@
 # Site
-title:              Daulluck
-bio:                '个人首页.'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+title:              dualluck‘s personal page
+bio:                '或琴瑟在御之静好,或金风玉露之相逢'
+description:        "春成的个人首页."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
-locale:             en_US
-url:                https://taylantatli.github.io/Moon
+locale:             zh_CN
+#url:                https://dualluck.github.io/
+url:                http://127.0.0.1:4000/
 
 # Jekyll
 permalink:          /:title/
@@ -37,25 +38,25 @@ disqus_shortname:   taylantatli
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
-twitter:            username
-facebook:           username
-github-url:         username
+email:              122539137@qq.com
+#twitter:            username
+#facebook:           username
+github-url:         dualluck
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
-instagram:          username
+#instagram:          username
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-steam:              username
+#steam:              username
 #dribbble:          username
 #youtube:           username
 #youtube-channel:   channel
 #soundcloud:        username
-#weibo:             username
+weibo:             altzer
 #flickr:            username
 #codepen:           username
 #keybase:           username

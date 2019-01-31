@@ -1,16 +1,20 @@
 ---
 layout: post
-title:  "Markdown Syntax"
-date:   2016-03-15
-excerpt: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
+title:  "测试页"
+date:   2019-1-31
+excerpt: "jekyll安装theme方法，以及MarkDown的基本语法示例。"
 tag:
-- markdown 
-- syntax
-- sample
-- test
-- jekyll
+- 杂记
+- MarkDown
+- MarkDown示例
 comments: true
 ---
+
+## Installation
+   1. Clone the repo: `git clone https://github.com/TaylanTatli/Moon.git dualluck.github.io`
+   2. Open the folder: `cd dualluck.github.io`
+   3. Install the dependencies: `bundle install`
+   4. Build the website: `bundle exec jekyll serve`
 
 ## HTML Elements
 
@@ -68,7 +72,7 @@ HTML and CSS are our tools. Mauris a ante. Suspendisse quam sem, consequat at, c
 |----
 | cell1   | cell2   | cell3   |
 | cell4   | cell5   | cell6   |
-|=====
+|===== 
 | Foot1   | Foot2   | Foot3
 {: rules="groups"}
 
